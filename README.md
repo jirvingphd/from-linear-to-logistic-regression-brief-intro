@@ -26,93 +26,6 @@ from fsds.imports import *
 
     fsds v0.4.10 loaded.
 
-<!-- 
-
-<style  type="text/css" >
-#T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col3,#T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col0,#T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col2,#T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col3{
-            text-align:  left;
-        }#T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col4,#T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col1,#T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col4{
-            text-align:  left;
-            text-align:  center;
-        }</style><table id="T_9f4b9c0a_2637_11ec_9665_acde48001122" ><caption>Loaded Packages & Info</caption><thead>    <tr>        <th class="col_heading level0 col0" >Package</th>        <th class="col_heading level0 col1" >Handle</th>        <th class="col_heading level0 col2" >Version</th>        <th class="col_heading level0 col3" >Documentation</th>        <th class="col_heading level0 col4" >Imported</th>    </tr></thead><tbody>
-                <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col0" class="data row0 col0" >pandas</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col1" class="data row0 col1" >pd</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col2" class="data row0 col2" >1.1.3</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col3" class="data row0 col3" ><a href="https://pandas.pydata.org/docs/">https://pandas.pydata.org/docs/</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row0_col4" class="data row0 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col0" class="data row1 col0" >fsds</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col1" class="data row1 col1" >fs</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col2" class="data row1 col2" >0.4.10</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col3" class="data row1 col3" ><a href="https://fs-ds.readthedocs.io/en/latest/">https://fs-ds.readthedocs.io/en/latest/</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row1_col4" class="data row1 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col0" class="data row2 col0" >numpy</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col1" class="data row2 col1" >np</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col2" class="data row2 col2" >1.19.5</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col3" class="data row2 col3" ><a href="https://numpy.org/doc/stable/reference/">https://numpy.org/doc/stable/reference/</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row2_col4" class="data row2 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col0" class="data row3 col0" >matplotlib</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col1" class="data row3 col1" >mpl</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col2" class="data row3 col2" >3.3.1</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col3" class="data row3 col3" ><a href="https://matplotlib.org/stable/api/index.html">https://matplotlib.org/stable/api/index.html</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row3_col4" class="data row3 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col0" class="data row4 col0" >matplotlib.pyplot</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col1" class="data row4 col1" >plt</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col2" class="data row4 col2" ></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col3" class="data row4 col3" ><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html#module-matplotlib.pyplot">https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html#module-matplotlib.pyplot</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row4_col4" class="data row4 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col0" class="data row5 col0" >seaborn</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col1" class="data row5 col1" >sns</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col2" class="data row5 col2" >0.11.0</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col3" class="data row5 col3" ><a href="https://seaborn.pydata.org/api.html">https://seaborn.pydata.org/api.html</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row5_col4" class="data row5 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col0" class="data row6 col0" >IPython.display</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col1" class="data row6 col1" >dp</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col2" class="data row6 col2" ></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col3" class="data row6 col3" ><a href="https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html">https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html</a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row6_col4" class="data row6 col4" >Y</td>
-            </tr>
-            <tr>
-                                <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col0" class="data row7 col0" >sklearn</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col1" class="data row7 col1" ></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col2" class="data row7 col2" >0.23.2</td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col3" class="data row7 col3" ><a href=""></a></td>
-                        <td id="T_9f4b9c0a_2637_11ec_9665_acde48001122row7_col4" class="data row7 col4" >N</td>
-            </tr>
-    </tbody></table>
-
-
-
-<script type="text/javascript">
-window.PlotlyConfig = {MathJaxConfig: 'local'};
-if (window.MathJax) {MathJax.Hub.Config({SVG: {font: "STIX-Web"}});}
-if (typeof require !== 'undefined') {
-require.undef("plotly");
-requirejs.config({
-    paths: {
-        'plotly': ['https://cdn.plot.ly/plotly-2.4.2.min']
-    }
-});
-require(['plotly'], function(Plotly) {
-    window._Plotly = Plotly;
-});
-}
-</script>
-
- -->
-
 
 <script type="text/javascript">
 window.PlotlyConfig = {MathJaxConfig: 'local'};
@@ -133,21 +46,6 @@ require(['plotly'], function(Plotly) {
 
 
 
-<script type="text/javascript">
-window.PlotlyConfig = {MathJaxConfig: 'local'};
-if (window.MathJax) {MathJax.Hub.Config({SVG: {font: "STIX-Web"}});}
-if (typeof require !== 'undefined') {
-require.undef("plotly");
-requirejs.config({
-    paths: {
-        'plotly': ['https://cdn.plot.ly/plotly-2.4.2.min']
-    }
-});
-require(['plotly'], function(Plotly) {
-    window._Plotly = Plotly;
-});
-}
-</script>
 
 
 
